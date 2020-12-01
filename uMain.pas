@@ -6,8 +6,8 @@ uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, ActnList, StdCtrls, DB, ADODB, Menus, ExtCtrls, Grids, ToolWin,
   ComCtrls, ImgList, DBGrids, DBCtrls, Placemnt, uEditMethod, uWait, SyncObjs,
-  uClass, ComObj, uStructMDB, uRenameFunc, consts, uDBGridExt, JCLDebug,
-  AppEvnts, uSourceFunc;
+  uClass, ComObj, uStructMDB, uRenameFunc, consts, uDBGridExt, AppEvnts, JCLDebug,
+  uSourceFunc;
 
 type
   TDBGrid = class(uDBGridExt.TDBGrid)
