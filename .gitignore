@@ -1,3 +1,5 @@
 *.~*
 *.dcu
 *.7z
+*.xlsx
+TestMDB/*
